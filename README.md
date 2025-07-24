@@ -207,4 +207,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@eduplatform.com or create an issue in the repository.
+For support, email harshtiwari230202@gmail.com or create an issue in the repository.
